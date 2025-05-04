@@ -1,0 +1,1 @@
+# Optimizing-Carbon-Footprint-of-ML-Models-on-Edge-Devices
